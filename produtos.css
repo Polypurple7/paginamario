@@ -1,0 +1,15 @@
+header{
+	background:#CC0033; /*cor fundo*/
+	padding: 20px 0;
+}
+
+.caixa{
+	position: relative; /*texto no meio*/
+	width: 1600px; /*largura*/
+	margin: 0 auto; /*calcula margem*/
+}
+nav{
+	position: absolute; /*ocupa todo espaço*/
+	top: 110px; /*ficar no topo*/
+	right: 0; /*alinhado a direita*/
+}
